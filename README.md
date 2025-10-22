@@ -1,1 +1,5 @@
-# yunaaa
+# yunaa
+
+<p align="center">
+  <img src="https://files.catbox.moe/75k3h4.jpg" alt="Thumbnail" />
+</p>
